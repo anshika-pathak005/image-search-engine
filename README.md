@@ -18,8 +18,8 @@ Search for any keyword and instantly get beautiful images, with the option to lo
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/IMG_20250916_203633_814.jpg" width="700" alt="Search Results" />
+<p>
+  <img src="screenshots/IMG_20250916_203633_814.jpg" alt="Search Results" />
 </p>
 
 ## ⚙️ Installation & Usage
